@@ -5,6 +5,7 @@ Busco conocimiento y un espacio donde pueda aplicarlo y aprender lo máximo posi
 
 Si desea comunicarse conmigo, no dude en comunicarse con migueljc1994@gmail.com .
 ¡tambien puedes visitar mi pagina personal para mas informacion sobre mi!
+
 ----------------------------------------------------------------------------------------------------------------------
 
 My name is Miguel Angel, I've recently finished learning in Henry, which is a new remote academy from Argentina. 

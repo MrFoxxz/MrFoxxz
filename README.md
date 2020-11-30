@@ -1,4 +1,4 @@
-### ¡Hola! // Hi there! 👋 
+### 🦊 ¡Hola! // Hi there! 🦊
 
 Mi nombre es Miguel Angel, recientemente terminé de aprender en Henry, que es una nueva academia remota de Argentina.
 Busco conocimiento y un espacio donde pueda aplicarlo y aprender lo máximo posible.

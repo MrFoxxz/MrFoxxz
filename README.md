@@ -1,16 +1,13 @@
 ### ¡Hola! // Hi there! 👋 
 
 Mi nombre es Miguel Angel, recientemente terminé de aprender en Henry, que es una nueva academia remota de Argentina.
-
 Busco conocimiento y un espacio donde pueda aplicarlo y aprender lo máximo posible.
 
 Si desea comunicarse conmigo, no dude en comunicarse con migueljc1994@gmail.com .
 ¡tambien puedes visitar mi pagina personal para mas informacion sobre mi!
-
 ----------------------------------------------------------------------------------------------------------------------
 
 My name is Miguel Angel, I've recently finished learning in Henry, which is a new remote academy from Argentina. 
-
 I'm looking for knowledge and a space where I can apply it and learn as much as possible.
 
 If you want to contact me, feel free to reach out at migueljc1994@gmail.com .

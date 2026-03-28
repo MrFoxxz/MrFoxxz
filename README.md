@@ -1,6 +1,6 @@
 <div align="center">
   <p><strong>DESIGN & DEVELOPMENT BY</strong></p>
-  <img src="https://raw.githubusercontent.com/CieloVerdeGS/CieloVerde_GS/2673e07858e4405222909c480c2324c649f9da82/CieloVerde_GS_Front/public/images/logos/logofox.png" alt="Fox Logo" width="150" />
+![Fox Logo](https://raw.githubusercontent.com/CieloVerdeGS/CieloVerde_GS/main/CieloVerde_GS_Front/public/images/logos/logofox.png)
 </div>
 
 <br>

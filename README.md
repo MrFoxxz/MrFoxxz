@@ -15,11 +15,6 @@ Actualmente sigo fortaleciendo mis conocimientos y buscando proyectos o equipos 
 📫 **Contacto / Contact:**  
 **migueljc1994@gmail.com**
 
-🌐 **Portafolio / Personal Website:**  
-_Aquí puedes agregar el enlace de tu página personal_
-
----
-
 I’m **Miguel Angel**, a developer focused on building modern, functional, and thoughtful web experiences.  
 I enjoy creating products where design, logic, and user experience work together.
 

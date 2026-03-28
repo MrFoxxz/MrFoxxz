@@ -1,23 +1,79 @@
 <div align="center">
   <p><strong>DESIGN & DEVELOPMENT BY</strong></p>
-<img src="https://raw.githubusercontent.com/CieloVerdeGS/CieloVerde_GS/main/CieloVerde_GS_Front/public/images/logos/logofox.png" alt="Fox Logo" width="150" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logofoxligth.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logofox.png">
+    <img src="./assets/logofox.png" alt="Fox Logo" width="150">
+  </picture>
 </div>
 
 <br>
 
-### 🦊 ¡Hola! // Hi there! 🦊
+<h2 align="center">🦊 Miguel Angel — Frontend & UX Developer</h2>
 
-Soy **Miguel Angel**, desarrollador enfocado en crear experiencias web modernas, funcionales y bien pensadas.  
-Me gusta construir productos donde el diseño, la lógica y la experiencia del usuario trabajen juntos.
+<p align="center">
+  Building thoughtful digital experiences,<br>
+  with intention, clarity and a human approach.
+</p>
 
-Actualmente busco oportunidades donde pueda aportar valor, seguir creciendo profesionalmente y continuar aprendiendo cada día.
-
-📫 **Contacto / Contact:**  
-**migueljc1994@gmail.com**
+<p align="center">
+  <strong>
+    Soluciones inteligentes, diseñadas con intención,<br>
+    trabajando juntos, con calma y propósito, creando algo mejor.
+  </strong>
+</p>
 
 ---
 
-I’m **Miguel Angel**, a developer focused on building modern, functional, and thoughtful web experiences.  
-I enjoy creating products where design, logic, and user experience work together.
+### 🧠 Sobre mí / About me
 
-I’m currently looking for opportunities where I can contribute, keep growing professionally, and continue learning every day.
+Soy desarrollador enfocado en crear **productos digitales claros, funcionales y bien pensados**.  
+Trabajo en la intersección entre **UX, desarrollo frontend y lógica de producto**, donde cada decisión tiene un propósito.
+
+Me especializo en:
+
+- Landing pages modernas y optimizadas  
+- Aplicaciones web interactivas  
+- Dashboards y visualización de datos  
+- Interfaces rápidas, escalables y centradas en el usuario  
+
+También cuento con experiencia en backend trabajando con **Node.js y bases de datos MySQL**, desarrollando lógica de negocio, consumo de APIs y estructuras de datos eficientes.
+
+Me siento cómodo trabajando tanto en frontend como en backend, lo que me permite tener una visión completa del producto y tomar mejores decisiones técnicas.
+
+Mi enfoque no es solo construir interfaces, sino **resolver problemas reales con diseño y tecnología**.
+
+<!-- ---  
+
+### 🚀 Mentalidad de trabajo  
+
+- 🧠 Pienso antes de construir  
+- 🎯 Diseño con intención  
+- ⚡ Optimizo para rendimiento  
+- 🤝 Construyo experiencias útiles, no solo visuales  
+- 💬 Comunicación constante con el cliente  
+- 🤝 Trabajo colaborativo durante todo el proceso  
+- 🔍 Transparencia en decisiones, avances y resultados  
+
+--- -->
+
+### 📫 Contacto
+
+📩 [migueljc1994@gmail.com](mailto:migueljc1994@gmail.com)
+
+---
+
+### 🌎 Estoy abierto a / I’m open to
+
+- Nuevas oportunidades / New opportunities  
+- Proyectos freelance / Freelance projects  
+- Colaboraciones y proyectos en conjunto / Collaborations & team projects  
+- Desarrollo de landing pages / Landing page development  
+- Aprender y trabajar con nuevas tecnologías / Learning and working with new technologies  
+
+<br>
+
+<div align="center">
+  <img src="./assets/bannerfox.png" alt="Fox banner" width="100%">
+</div>

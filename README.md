@@ -8,19 +8,17 @@
   </picture>
 </div>
 
-<br>
-
-<h2 align="center">🦊 Miguel Angel — Frontend & UX Developer</h2>
+<h2 align="center">🦊 Miguel Angel — Frontend & UX Developer 🦊</h2>
 
 <p align="center">
-  Building thoughtful digital experiences,<br>
-  with intention, clarity and a human approach.
+  Building thoughtful digital experiences 🌌✨<br>
+  with intention, clarity and a human approach 🧠💫
 </p>
 
 <p align="center">
   <strong>
-    Soluciones inteligentes, diseñadas con intención,<br>
-    trabajando juntos, con calma y propósito, creando algo mejor.
+    Soluciones inteligentes, diseñadas con intención 💛,<br>
+    trabajando juntos 🤝, con calma 🌿 y propósito ✨, creando algo mejor 🚀
   </strong>
 </p>
 
@@ -28,21 +26,21 @@
 
 ### 🧠 Sobre mí / About me
 
-Soy desarrollador enfocado en crear **productos digitales claros, funcionales y bien pensados**.  
+Soy desarrollador enfocado en crear **productos digitales claros, funcionales y bien pensados**. 🌱  
 Trabajo en la intersección entre **UX, desarrollo frontend y lógica de producto**, donde cada decisión tiene un propósito.
 
 Me especializo en:
 
-- Landing pages modernas y optimizadas  
-- Aplicaciones web interactivas  
-- Dashboards y visualización de datos  
-- Interfaces rápidas, escalables y centradas en el usuario  
+- Landing pages modernas y optimizadas 🌴  
+- Aplicaciones web interactivas 🚀  
+- Dashboards y visualización de datos 📊  
+- Interfaces rápidas, escalables y centradas en el usuario ⚡  
 
-También cuento con experiencia en backend trabajando con **Node.js y bases de datos MySQL**, desarrollando lógica de negocio, consumo de APIs y estructuras de datos eficientes.
+También cuento con experiencia en backend trabajando con **Node.js y bases de datos MySQL**, desarrollando lógica de negocio, consumo de APIs y estructuras de datos eficientes 🛠️.
 
 Me siento cómodo trabajando tanto en frontend como en backend, lo que me permite tener una visión completa del producto y tomar mejores decisiones técnicas.
 
-Mi enfoque no es solo construir interfaces, sino **resolver problemas reales con diseño y tecnología**.
+Mi enfoque no es solo construir interfaces, sino **resolver problemas reales con diseño y tecnología**. 💡👽
 
 <!-- ---  
 
@@ -66,11 +64,11 @@ Mi enfoque no es solo construir interfaces, sino **resolver problemas reales con
 
 ### 🌎 Estoy abierto a / I’m open to
 
-- Nuevas oportunidades / New opportunities  
-- Proyectos freelance / Freelance projects  
-- Colaboraciones y proyectos en conjunto / Collaborations & team projects  
-- Desarrollo de landing pages / Landing page development  
-- Aprender y trabajar con nuevas tecnologías / Learning and working with new technologies  
+- Nuevas oportunidades 💼 / New opportunities  
+- Proyectos freelance 🌴 / Freelance projects  
+- Colaboraciones y proyectos en conjunto 🤝 / Collaborations & team projects  
+- Desarrollo de landing pages 🚀 / Landing page development  
+- Aprender y trabajar con nuevas tecnologías 🌌 / Learning and working with new technologies  
 
 <br>
 
